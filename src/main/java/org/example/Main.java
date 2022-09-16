@@ -9,7 +9,7 @@ public class Main {
 
         boolean bonus = client.getValue(Boolean.class, "bonus", false);
 
-        System.out.println("bonus's value from ConfigCat: " + bonus);
+        System.out.println("bonus' value from ConfigCat: " + bonus);
 
         displaySalaries(bonus);
 
