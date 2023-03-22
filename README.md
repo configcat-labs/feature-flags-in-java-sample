@@ -20,7 +20,7 @@ In this repository you will find a simple Java application that displays the com
 ## Learn more
 
 - [Java Documentation](https://docs.oracle.com/en/java/)
-- [ConfgiCat Java SDK Documentation](https://configcat.com/docs/sdk-reference/java/)
+- [ConfigCat Java SDK Documentation](https://configcat.com/docs/sdk-reference/java/)
 
 [**ConfigCat**](https://configcat.com) also supports many other frameworks and languages. Check out the full list of supported SDKs [here](https://configcat.com/docs/sdk-reference/overview/).
 
