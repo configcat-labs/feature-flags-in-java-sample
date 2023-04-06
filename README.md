@@ -1,5 +1,3 @@
-# feature-flags-in-java-sample
-
 # How to use ConfigCat's Feature Flags in Java
 
 In this repository you will find a simple Java application that displays the company's employees and their salaries based on a list of dummy data. The application is using a feature flag which is handled through [ConfigCat's](https://configcat.com) management system, in order to determine whether or not there is a 10% bonus given to the employees.
